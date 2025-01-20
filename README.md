@@ -172,6 +172,8 @@ Run in development mode with nodemon:
 ```bash
 npm run dev
 ```
+## [Result Screenshots](https://github.com/krishnanbhupathi/hacker-news-service/tree/main/result-screenshots)
+
 
 ## Error Handling
 The service includes comprehensive error handling:
